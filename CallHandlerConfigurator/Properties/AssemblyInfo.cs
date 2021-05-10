@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("CallHandler")]
+[assembly: AssemblyTitle("CallHandlerConfigurator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CallHandler")]
-[assembly: AssemblyCopyright("Copyright ©  2021 - Mateus Fabricio")]
+[assembly: AssemblyProduct("CallHandlerConfigurator")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("3197468f-e222-4ea6-9a29-db5f0625d595")]
+[assembly: Guid("50644169-46ae-4550-b323-c073fa931130")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
@@ -33,6 +33,6 @@ using System.Runtime.InteropServices;
 // É possível especificar todos os valores ou usar como padrão os Números de Build e da Revisão
 // usando o "*" como mostrado abaixo:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.1.2.2")]
-[assembly: AssemblyFileVersion("2.1.2.2")]
-[assembly: NeutralResourcesLanguage("pt")]
+[assembly: AssemblyVersion("2.1.3.4")]
+[assembly: AssemblyFileVersion("2.1.3.4")]
+[assembly: NeutralResourcesLanguage("pt-BR")]
